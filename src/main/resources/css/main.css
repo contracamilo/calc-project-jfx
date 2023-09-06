@@ -1,0 +1,52 @@
+.button{
+    -fx-background-color: #707070,
+    linear-gradient(#fcfcfc, #f3f3f3),
+    linear-gradient(#f2f2f2 0%, #ebebeb 49%, #dddddd 50%, #cfcfcf 100%);
+    -fx-background-insets: 0,1,2;
+    -fx-background-radius: 3,2,1;
+    -fx-text-fill: black;
+    -fx-font-size: 14px;
+    -fx-cursor: pointer;
+}
+
+.cancel{
+    -fx-background-color: red,
+    linear-gradient(to bottom, #ffcccc, #ff6666),
+    linear-gradient(#ff9999 0%, #ff6666 49%, #ff3333 50%, #ff0000 100%);
+    -fx-background-insets: 0,1,2;
+    -fx-background-radius: 3,2,1;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
+
+.operations{
+    -fx-background-color: olive,
+    linear-gradient(to bottom, #d3d36b, #8b8b2d),
+    linear-gradient(#a5a539 0%, #8b8b2d 49%, #6e6e23 50%, #55551a 100%);
+    -fx-background-insets: 0,1,2;
+    -fx-background-radius: 3,2,1;
+    -fx-text-fill: white;
+    -fx-font-size: 10px;
+}
+
+
+.others{
+    -fx-background-color: #d2691e,
+    linear-gradient(to bottom, #ffbf00, #d2691e),
+    linear-gradient(#d2691e 0%, #a0522d 49%, #8b4513 50%, #804000 100%);
+    -fx-background-insets: 0,1,2;
+    -fx-background-radius: 3,2,1;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
+
+.button:hover{
+    -fx-background-color: #B0C4DE,
+    linear-gradient(#f0f0f0, #87CEEB),
+    linear-gradient(#a9a9a9 0%, #696969 49%, #808080 50%, #d3d3d3 100%);
+    -fx-background-insets: 0,1,2;
+    -fx-background-radius: 3,2,1;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-cursor: pointer;
+}
