@@ -1,8 +1,9 @@
 # JavaFX calculator implemetation.
 
-Demo:
+## Demo:
 https://github.com/contracamilo/calc-project-jfx/assets/27745159/f17415ba-53f4-4bfb-b9af-fee4d0b38893
-.Jar: 
+
+## .Jar: 
 https://unisalleedu-my.sharepoint.com/:u:/g/personal/crivera52_unisalle_edu_co/EaCFsLKdqy5Fl_79MHHsKHcBfFuiQvw8DllpYSNP0A2giw?e=4jNOZK 
 
 <img width="302" alt="Screenshot 2023-09-06 at 1 30 12 AM" src="https://github.com/contracamilo/calc-project-jfx/assets/27745159/180a0ca7-738f-47bb-8d9d-775dcf902d5d">
